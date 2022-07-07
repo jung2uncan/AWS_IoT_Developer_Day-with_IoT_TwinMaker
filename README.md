@@ -2,7 +2,6 @@
 IoT SiteWise와 TwinMaker를 활용한 Factory Monitoring 시스템 구축하기(With Grafana)
 
 
-# _AWS IoT Developer Day - with IoT TwinMaker_
 ## 📖 Goal
 - AWS IoT TwinMaker로 구축한 Digital Twin MVP 구축하기
 - 장비의 IoT 데이터 수집, 어플리케이션, 데이터 분석 결과 등을 연계하는 것 포함
