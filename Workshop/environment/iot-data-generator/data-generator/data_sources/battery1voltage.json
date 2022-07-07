@@ -1,0 +1,16 @@
+{
+    "id": "717324-3248732464",
+    "cert": "the-device-certificate.cer",
+    "enabled": true,
+    "name": "battery 1",
+    "alias": "plant/1/battery/1/voltage",
+    "topic": "sim/test",
+    "type": "Double",
+    "frequency": 60,
+    "min": 220,
+    "max": 250,
+    "initial": 230,
+    "max_delta": 10,
+    "last_pub": 1657172920,
+    "last_value": 220
+}

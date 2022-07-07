@@ -1,0 +1,17 @@
+{
+    "id": "717324-3248732464",
+    "cert": "the-device-certificate.cer",
+    "enabled": true,
+    "name": "motor 8 rpm",
+    "alias": "plant/1/motor/8/rpm",
+    "type": "Double",
+    "frequency": 5,
+    "topic": "sim/test",
+    "min": 950,
+    "max": 1050,
+    "shape": "TRIANGLE",
+    "initial": 1000,
+    "max_delta": 2,
+    "last_pub": 1657172952,
+    "last_value": 1011
+}

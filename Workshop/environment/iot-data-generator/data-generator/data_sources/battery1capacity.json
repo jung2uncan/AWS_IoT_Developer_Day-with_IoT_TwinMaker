@@ -1,0 +1,17 @@
+{
+    "id": "717324-3248732464",
+    "cert": "the-device-certificate.cer",
+    "enabled": true,
+    "name": "battery 1 capacity",
+    "alias": "plant/1/battery/1/capacity",
+    "topic": "sim/test",
+    "type": "Double",
+    "frequency": 5,
+    "min": 25,
+    "max": 100,
+    "initial": 50,
+    "max_delta": 20,
+    "shape": "JITTER",
+    "last_pub": 1657172955,
+    "last_value": 34
+}

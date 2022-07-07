@@ -1,0 +1,17 @@
+{
+    "id": "717324-3248732464",
+    "cert": "the-device-certificate.cer",
+    "enabled": true,
+    "name": "tank 4",
+    "alias": "plant/1/tank/4/level",
+    "type": "Double",
+    "frequency": 5,
+    "topic": "sim/test",
+    "min": 20,
+    "max": 40,
+    "shape": "TRIANGLE",
+    "initial": 27,
+    "max_delta": 5,
+    "last_pub": 1657172955,
+    "last_value": 26
+}
