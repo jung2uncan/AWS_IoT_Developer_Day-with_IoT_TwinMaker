@@ -13,5 +13,7 @@ or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
 
-workshop/enviroment 폴더에 아래 내용 Clone하여 추가 (참고용) <br>
+<br><br><br>
+
+##### workshop/enviroment 폴더에 아래 내용 Clone하여 추가 (참고용) <br>
 git clone https://github.com/aws-samples/aws-iot-twinmaker-samples.git 
