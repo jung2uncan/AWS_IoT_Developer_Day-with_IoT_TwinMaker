@@ -17,7 +17,7 @@ IoT SiteWise와 TwinMaker를 활용한 Factory Monitoring 시스템 구축하기
 - Amazon Timestream
 
 ## Architecture
-
+![Archi](https://user-images.githubusercontent.com/74287598/177700115-62cc524c-78fb-4cbb-9d1f-a05e094c8e00.PNG)
 
 -----------------
 ### 1. IoT Data Generator를 이용하여 Data Source 생성하기
@@ -64,7 +64,7 @@ IoT SiteWise connector를 활용하여 component를 생성한다.
 
 #### Asset model 생성하기
 <br>
-###### * Asset Model과 Asset 이란? __
+ * Asset Model과 Asset 이란? __
     쉽게 말해 클래스와 인스턴스의 관계라고 볼 수 있다. Asset Model은 큰 틀을 잡아놓는 것이고, Asset은 Model을 기반으로 alias를 변경하여 각기 다른 Device에서 데이터를 수집할 수 있도록 한다.
  
  __Ex) 공장 온도/습도 등을 측정하는 Asset Model__
@@ -91,14 +91,13 @@ IoT SiteWise connector를 활용하여 component를 생성한다.
 
 #### 생성 예) Asset Detail : Ambient
 
-<Ambinet Humidity Data Example>
-![Asset Create3_Ambinet Humidity](https://user-images.githubusercontent.com/74287598/177690552-1a7196b5-acde-4a22-acaf-6b6b1c49c803.PNG)
+![Asset Create3_Ambient Humidity](https://user-images.githubusercontent.com/74287598/177700172-2f6d937a-6297-467f-9029-5c3f9799624c.PNG)
 
 - Model: Ambient
 - Name: Ambient Asset1
   
-![Asset Create1_Ambinet](https://user-images.githubusercontent.com/74287598/177690191-c137ce23-1efe-42fa-ba2c-e19ce0fe28f7.PNG)
-![Asset Create2_Ambinet](https://user-images.githubusercontent.com/74287598/177690192-66484e91-ec33-4078-91b5-830c8a594d66.PNG)
+![Asset Create1_Ambient](https://user-images.githubusercontent.com/74287598/177700126-19e0a43c-bed0-4037-ae46-0d1adecc624e.PNG)
+![Asset Create2_Ambient](https://user-images.githubusercontent.com/74287598/177700128-e35d2308-c748-411e-8858-4049ce600e27.PNG)
 
 
 #### IoT Core Rule 생성하기
