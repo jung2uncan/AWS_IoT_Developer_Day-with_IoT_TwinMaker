@@ -64,10 +64,12 @@ IoT SiteWise connector를 활용하여 component를 생성한다.
 
 #### Asset model 생성하기
 <br>
- __* Asset Model과 Asset 이란?__   
+##### * Asset Model과 Asset 이란?
+
     쉽게 말해 클래스와 인스턴스의 관계라고 볼 수 있다. Asset Model은 큰 틀을 잡아놓는 것이고, Asset은 Model을 기반으로 alias를 변경하여 각기 다른 Device에서 데이터를 수집할 수 있도록 한다.   
 <br><br>
- __Ex) 공장 온도/습도 등을 측정하는 Asset Model__
+##### Ex) 공장 온도/습도 등을 측정하는 Asset Model
+
  - 위 Asset Model을 기반으로 각 Asset 구성. 수집할 경로 alias를 다르게 주어 생성한다. 
    1번 공장 (plant/1/temperature) / 2번 공장(plant/2/temperature) / 3번 공장(plant/3/temperature) 
 
