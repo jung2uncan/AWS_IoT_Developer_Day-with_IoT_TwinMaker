@@ -12,3 +12,6 @@ To get started, create some files, play with the terminal,
 or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
+
+workshop/enviroment 폴더에 아래 내용 Clone하여 추가 (참고용)
+git clone https://github.com/aws-samples/aws-iot-twinmaker-samples.git && cd aws-iot-twinmaker-samples/
