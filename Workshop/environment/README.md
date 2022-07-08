@@ -15,5 +15,5 @@ Happy coding!
 
 <br><br><br>
 
-##### workshop/enviroment 폴더에 아래 내용 Clone하여 추가 (참고용) <br>
+##### workshop/enviroment 아래 aws-iot-twinmaker-samples 폴더 전체 내용은 아래 주소에서 Clone하여 추가 (참고용) <br>
 git clone https://github.com/aws-samples/aws-iot-twinmaker-samples.git 
