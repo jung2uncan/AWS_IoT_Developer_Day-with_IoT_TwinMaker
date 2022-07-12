@@ -17,7 +17,7 @@ IoT SiteWise와 TwinMaker를 활용한 Factory Monitoring 시스템 구축하기
 
 
 ## Architecture
-![Archi](https://user-images.githubusercontent.com/74287598/177700115-62cc524c-78fb-4cbb-9d1f-a05e094c8e00.PNG)
+![Archi2](https://user-images.githubusercontent.com/74287598/178407778-6dd2dfc2-9c02-44a1-bc59-4c060222c24c.PNG)
 
 -----------------
 ### 1. IoT Data Generator를 이용하여 Data Source 생성하기
