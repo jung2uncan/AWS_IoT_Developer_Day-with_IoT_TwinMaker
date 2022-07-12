@@ -14,7 +14,7 @@ IoT SiteWise와 TwinMaker를 활용한 Factory Monitoring 시스템 구축하기
 - SiteWise
 - TwinMaker
 - Amazon Managed Service for Grafana
-- Amazon Timestream
+
 
 ## Architecture
 ![Archi](https://user-images.githubusercontent.com/74287598/177700115-62cc524c-78fb-4cbb-9d1f-a05e094c8e00.PNG)
