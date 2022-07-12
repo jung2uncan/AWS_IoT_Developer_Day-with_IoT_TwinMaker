@@ -32,7 +32,7 @@ IoT Data Generator는 Python으로 각종 IoT Data Souce를 생성하여, MQTT�
 
 
 ### 2. TwinMaker Workspace 생성하기
-Workspace는 digital twin 애플리케이션의 최상위 container이다다. 이 workspace내에서 digital twin 에 대한 논리적 entities, components, scene assets 및 기타 리소스 집합을 만든다.
+Workspace는 digital twin 애플리케이션의 최상위 container이다. 이 workspace내에서 digital twin 에 대한 논리적 entities, components, scene assets 및 기타 리소스 집합을 만든다.
 <br>
 #### Create workspace IAM Role   
 Cloud9 terminal에서 아래의 명령을 수행하여, TwinMaker workspace를 위한 IAM Role을 생성
@@ -86,14 +86,12 @@ IoT SiteWise connector를 활용하여 component를 생성한다.
 #### 생성 예) Asset Model Detail : Ambient
 ![Asset Model Detail_Ambinet](https://user-images.githubusercontent.com/74287598/177677333-9428adce-4047-46cb-a947-2e5e60b0f3ef.PNG)
 
-
 <br>
 #### Asset 생성하기
 ![Asset Create](https://user-images.githubusercontent.com/74287598/177700246-47946789-5703-490f-bfce-9cf879a4d813.PNG)
 
 
 #### 생성 예) Asset Detail : Ambient
-
 ![Asset Create3_Ambient Humidity](https://user-images.githubusercontent.com/74287598/177700172-2f6d937a-6297-467f-9029-5c3f9799624c.PNG)
 
 - Model: Ambient
